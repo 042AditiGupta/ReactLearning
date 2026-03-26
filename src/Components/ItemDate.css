@@ -1,0 +1,23 @@
+.mfg-date{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    
+    background-color: #4f46e5;
+    color: white;
+    
+    width: 80px;
+    height: 80px;
+    
+    border-radius: 10px;
+    font-weight: bold;
+    font-family: Arial, sans-serif;
+    
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+}
+
+.mfg-date span{
+    font-size: 14px;
+    line-height: 1.2;
+}
